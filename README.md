@@ -34,7 +34,7 @@
 
 <div align="center">
     <h2>🔭 What I'm Working On</h2>
-    <p>Here are some of the projects I am working on!</p>
+    <p>Here are some of the projects I'm working on!</p>
 </div>
 
 <!--
